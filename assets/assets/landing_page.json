@@ -1,0 +1,176 @@
+{
+  "restaurantName": "My restaurant",
+  "overview": {
+    "title": "Welcome to my restaurant",
+    "content": "With us you will experience our philosophy and enjoy the unique quality of our original Japanese sushi. \\nWe serve a large selection of first-class sushi and Vietnamese dishes in a cozy East Asian ambience. \\nYou can also rely on us when it comes to choosing drinks. Whether you want a homemade iced tea, a fresh mint tea with ginger or an Asian beer - our drinks menu offers numerous specialties as well as well-known alcoholic and soft drinks.",
+    "subContent": "",
+    "buttonTitle": "Booking now",
+    "imageUrl": "images/sol1.jpeg",
+    "iconUrl": ""
+  },
+  "menus": [
+    {
+      "id": "Menu1",
+      "title": "Sushi bar",
+      "content": "Asian cuisine",
+      "subContent": "Our chefs put a lot of passion into conjuring up fresh delicacies on your plate every day. Whether it's a business lunch, a romantic dinner or a family celebration, with us you can escape from everyday life and embark on a wonderful culinary journey.",
+      "buttonTitle": "Booking now",
+      "imageUrl": "images/sol2.png",
+      "iconUrl": "",
+      "order": 1
+    },
+    {
+      "id": "Menu2",
+      "title": "Noodle",
+      "content": "Lorem ipsum dolor sit amet.",
+      "subContent": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat",
+      "buttonTitle": "Booking now",
+      "imageUrl": "images/sol3.png",
+      "iconUrl": "",
+      "order": 2
+    },
+    {
+      "id": "Menu3",
+      "title": "Drinking",
+      "content": "Hot and cool",
+      "subContent": "Lorem ipsum dolor sit amet, consectetur adipi-scing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Quis ipsum sus-pendisse ultrices gravida.",
+      "buttonTitle": "Booking now",
+      "imageUrl": "images/sol4.webp",
+      "iconUrl": "",
+      "order": 3
+    }
+  ],
+  "horizontalSlogans": [
+    {
+      "title": "THE BEST RESTAURANT",
+      "content": "With us you not only enjoy delicious food, but also a diverse Asian cuisine. \\nFor all food bloggers: Take a photo and share it immediately on Instagram - no problem, we have free WiFi",
+      "subContent": "",
+      "buttonTitle": "",
+      "imageUrl": "images/Lacuisine_resto.jpg",
+      "iconUrl": ""
+    },
+    {
+      "title": "PERFECT FOR FAMILY",
+      "content": "Our air is filled with aroma. \\nIf you are looking for a spacious, comfortable, luxurious and cozy place to meet up with friends and family, VietStreet Restaurant is the best choice",
+      "subContent": "",
+      "buttonTitle": "",
+      "imageUrl": "images/family.jpeg",
+      "iconUrl": ""
+    },
+    {
+      "title": "FRESH EVERY DAY",
+      "content": "Our dishes are prepared exclusively with fresh and high-quality ingredients. \\nYour health and satisfaction is always our top priority",
+      "subContent": "",
+      "buttonTitle": "",
+      "imageUrl": "images/food_fresh.jpeg",
+      "iconUrl": ""
+    }
+  ],
+  "latitude": "",
+  "longitude": "",
+  "openHours": [
+    "8:00-21h",
+    "8:00-21h",
+    "8:00-21h",
+    "8:00-21h",
+    "8:00-21h",
+    "8:00-21h",
+    "Closed"
+  ],
+  "phoneNumber": "",
+  "facebookLink": "",
+  "instagramLink": "",
+  "youtubeLink": "",
+  "address": "14 Floor, Berlin Centre, Berlin, Germany",
+  "email": "sol_restaurant@gmail.com",
+  "menuItems": [
+    {
+      "name": "Lorem ipsum dolor sit amet",
+      "description": "Lorem ipsum dolor sit amet, consectetur adipi-scing elit, sed do eiusmod tempor ",
+      "cost": "15",
+      "image": "images/placeholder.jpeg",
+      "menuId": "Menu3",
+      "order": 1
+    },
+    {
+      "name": "Sashimi",
+      "description": "Lorem ipsum dolor sit amet, consectetur adipi-scing elit, sed do eiusmod tempor ",
+      "cost": "15",
+      "image": "images/placeholder.jpeg",
+      "menuId": "Menu1",
+      "order": 2
+    },
+    {
+      "name": "Lorem ipsum dolor sit amet",
+      "description": "Lorem ipsum dolor sit amet, consectetur adipi-scing elit, sed do eiusmod tempor ",
+      "cost": "15",
+      "image": "images/placeholder.jpeg",
+      "menuId": "Menu2",
+      "order": 1
+    },
+    {
+      "name": "Sashimi",
+      "description": "Lorem ipsum dolor sit amet, consectetur adipi-scing elit, sed do eiusmod tempor ",
+      "cost": "15",
+      "image": "images/placeholder.jpeg",
+      "menuId": "Menu2",
+      "order": 2
+    },
+    {
+      "name": "Sake wine",
+      "description": "Sake Nigiri - 6 Sake Maki - 8 Sake Inside Out - (*D, 1, 2, 17, 20) - Ein Süppchen oder eine Extra-Soße (Beilage) gegen Aufpreis wird empfohlen.",
+      "cost": "15",
+      "image": "images/placeholder.jpeg",
+      "menuId": "Menu3",
+      "order": 1
+    },
+    {
+      "name": "Sochu",
+      "description": "Sake Nigiri - 6 Sake Maki - 8 Sake Inside Out - (*D, 1, 2, 17, 20) - Ein Süppchen oder eine Extra-Soße (Beilage) gegen Aufpreis wird empfohlen.",
+      "cost": "15",
+      "image": "images/placeholder.jpeg",
+      "menuId": "Menu3",
+      "order": 2
+    }
+  ],
+  "aboutUs": [
+    {
+      "title": "My restaurant",
+      "content": "Our dishes are prepared exclusively with fresh and high-quality ingredients. \\nYour health and satisfaction is always our top priority",
+      "subContent": "",
+      "buttonTitle": "",
+      "imageUrl": "",
+      "iconUrl": ""
+    },
+    {
+      "title": "Contact",
+      "content": "Tel:xxx\nEmail:xxx",
+      "subContent": "",
+      "buttonTitle": "",
+      "imageUrl": "",
+      "iconUrl": ""
+    },
+    {
+      "title": "Streitschlichtung",
+      "content": "Die Europäische Kommission stellt eine Plattform zur Online-Streitschlichtung (OS) bereits:\n",
+      "subContent": "https://ec.europa.eu/consumers/odr/main/index.cfm?event=main.home2.show&lng=DE\n",
+      "buttonTitle": "",
+      "imageUrl": "",
+      "iconUrl": ""
+    }
+  ],
+  "privacy": [
+    {
+      "title": "Inhalt des Onlineangebotes:",
+      "content": "Der Autor übernimmt keinerlei Gewähr für die Aktualität, Korrektheit,  Vollständigkeit oder Qualität der bereitgestellten Informationen. Haftungsansprüche gegen den Autor, welche sich auf Schäden materieller  oder ideeller Art beziehen, die durch die Nutzung oder Nichtnutzung der dargebotenen Informationen bzw. durch die Nutzung fehlerhafter und unvollständiger Informationen verursacht wurden, sind grundsätzlich ausgeschlossen, sofern seitens des Autors kein nachweislich vorsätzliches oder grob fahrlässiges Verschulden vorliegt.\nAlle Angebote sind freibleibend und unverbindlich. Der Autor behält es sich  ausdrücklich vor, Teile der Seiten oder das gesamte Angebot ohne gesonderte Ankündigung zu verändern, zu ergänzen, zu löschen oder die Veröffentlichung zeitweise oder endgültig einzustellen."
+    },
+    {
+      "title": "Verweise und Links:",
+      "content": "Bei direkten oder indirekten Verweisen auf fremde Webseiten (\"Hyperlinks\"),  die außerhalb des Verantwortungsbereiches des Autors liegen, würde eine Haftungsverpflichtung ausschließlich in dem Fall in Kraft treten, in  dem der Autor von den Inhalten Kenntnis hat und es ihm technisch möglich und zumutbar wäre, die Nutzung im Falle rechtswidriger Inhalte zu  verhindern.\n\nDer Autor erklärt hiermit ausdrücklich, dass zum  Zeitpunkt der Linksetzung keine illegalen Inhalte auf den zu  verlinkenden Seiten erkennbar waren. Auf die aktuelle und zukünftige  Gestaltung, die Inhalte oder die Urheberschaft der verlinkten/verknüpften Seiten hat der Autor keinerlei Einfluss. Deshalb  distanziert er sich hiermit ausdrücklich von allen Inhalten aller verlinkten /verknüpften Seiten, die nach der Linksetzung verändert wurden. Diese Feststellung gilt für alle innerhalb des eigenen Internetangebotes gesetzten Links und Verweise sowie für Fremdeinträge  in vom Autor eingerichteten Gästebüchern, Diskussionsforen,  Linkverzeichnissen, Mailinglisten und in allen anderen Formen von  Datenbanken, auf deren Inhalt externe Schreibzugriffe möglich sind. Für  illegale, fehlerhafte oder unvollständige Inhalte und insbesondere für  Schäden, die aus der Nutzung oder Nichtnutzung solcherart dargebotener  Informationen entstehen, haftet allein der Anbieter der Seite, auf welche verwiesen wurde, nicht derjenige, der über Links auf die  jeweilige Veröffentlichung lediglich verweist."
+    },
+    {
+      "title": "Urheber- und Kennzeichenrecht:",
+      "content": "Der Autor ist bestrebt, in allen Publikationen die Urheberrechte der  verwendeten Grafiken, Tondokumente, Videosequenzen und Texte zu beachten, von ihm selbst erstellte Grafiken, Tondokumente,  Videosequenzen und Texte zu nutzen oder auf lizenzfreie Grafiken, Tondokumente, Videosequenzen und Texte zurückzugreifen.\nAlle innerhalb des Internetangebotes genannten und ggf. durch Dritte  geschützten Marken- und Warenzeichen unterliegen uneingeschränkt den Bestimmungen des jeweils gültigen Kennzeichenrechts und den Besitzrechten der jeweiligen eingetragenen Eigentümer. Allein aufgrund der bloßen Nennung ist nicht der Schluss zu ziehen, dass Markenzeichen nicht durch Rechte Dritter geschützt sind!\n\nDas Copyright für veröffentlichte, vom Autor selbst erstellte Objekte bleibt allein beim Autor der Seiten. Eine Vervielfältigung oder Verwendung solcher Grafiken, Tondokumente, Videosequenzen und Texte in anderen elektronischen oder gedruckten Publikationen ist ohne ausdrückliche Zustimmung des Autors nicht gestattet.\n"
+    }
+  ]
+}
